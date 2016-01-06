@@ -1,0 +1,6 @@
+{
+    "compilerOption": {
+        "target": "es6",
+        "sourceMap": true
+    }
+}
